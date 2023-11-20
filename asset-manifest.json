@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP4_react/static/css/main.241951ba.css",
+    "main.js": "/TP4_react/static/js/main.23e6c6a1.js",
+    "index.html": "/TP4_react/index.html",
+    "main.241951ba.css.map": "/TP4_react/static/css/main.241951ba.css.map",
+    "main.23e6c6a1.js.map": "/TP4_react/static/js/main.23e6c6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.23e6c6a1.js"
+  ]
+}
